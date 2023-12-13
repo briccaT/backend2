@@ -1,0 +1,57 @@
+[
+    {
+    "id": 1,
+    "status": true,
+    "title": "Manzana",
+    "description": "Fruta fresca",
+    "category": "Manzanas",
+    "price": 100,
+    "thumbnail": "https://www.freepik.com/free-photo/fresh-juicy-organic-apple-white-generative-ai_40950201.htm#query=manzana&position=5&from_view=search&track=sph&uuid=c0be8a9b-c2ee-4f53-94a2-24ee3839def2",
+    "code": "F1",
+    "stock": 50
+    },
+    {
+    "id": 2,
+    "status": true,
+    "title": "Banana",
+    "description": "Fruta fresca",
+    "category": "Bananas",
+    "price": 260,
+    "thumbnail": "https://www.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_11053232.htm#query=platano&position=7&from_view=search&track=sph&uuid=465c362d-9fe9-4bce-95f9-598aedf05366",
+    "code": "F2",
+    "stock": 40
+    },
+    {
+    "id": 3,
+    "status": true,
+    "title": "Naranja",
+    "description": "Fruta fresca",
+    "category": "Naranjas",
+    "price": 150,
+    "thumbnail": "https://www.freepik.com/free-photo/cut-orange-parts-whole-fruit-with-green-leaves_8132443.htm#query=naranja&position=4&from_view=search&track=sph&uuid=cda54c3e-ad5c-412f-afbf-4c0cbea65142",
+    "code": "F3",
+    "stock": 60
+    },
+    {
+    "id": 4,
+    "status": true,
+    "title": "Fresa",
+    "description": "Fruta fresca",
+    "category": "Fresas",
+    "price": 300,
+    "thumbnail": "https://www.freepik.com/free-photo/strawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert_26435030.htm#query=fresa&position=2&from_view=search&track=sph&uuid=22b31bbf-0564-423c-b99e-494b22043823",
+    "code": "F4",
+    "stock": 30
+    },
+    {
+    "id": 5,
+    "status": true,
+    "title": "Piña",
+    "description": "Fruta fresca",
+    "category": "Piñas",
+    "price": 1000,
+    "thumbnail": "https://www.freepik.com/free-photo/pineapple-ananas-citrus-fruit-juicy-nutrition-pina_2987641.htm#query=pi%C3%B1a&position=6&from_view=search&track=sph&uuid=0d39a6e9-ee67-49ef-9547-8ce862a32d1a",
+    "code": "F5",
+    "stock": 45
+    }
+]
